@@ -31,14 +31,14 @@
       <code>41       </code>
     </items>
     <items id="d54c242b-5d7a-486f-ae1a-23225a714145">
-      <name>РассчетыСПоставщиками</name>
-      <description>Рассчеты с поставщиками</description>
+      <name>РасчетыСПоставщиками</name>
+      <description>Расчеты с поставщиками</description>
       <code>60       </code>
       <accountType>Passive</accountType>
     </items>
     <items id="723c7a9c-e615-4589-be95-db1ae705e00b">
-      <name>РассчетыСПокупателями</name>
-      <description>Рассчеты с покупателями</description>
+      <name>РасчетыСПокупателями</name>
+      <description>Расчеты с покупателями</description>
       <code>62       </code>
     </items>
     <items id="34cd65b4-5aae-463b-b3fb-a6ef2dbc03da">
@@ -58,8 +58,8 @@
       <code>50       </code>
     </items>
     <items id="3e055b47-9fb2-49f6-9fd9-88d6c1f0123b">
-      <name>РассчетныеСчета</name>
-      <description>Рассчетные счета</description>
+      <name>РасчетныеСчета</name>
+      <description>Расчетные счета</description>
       <code>51       </code>
       <accountType>ActivePassive</accountType>
     </items>

@@ -32,10 +32,10 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <attributes uuid="711fb093-6bc1-4524-90d7-61e485b85f02">
-    <name>Клиент</name>
+    <name>ЭтоКлиент</name>
     <synonym>
       <key>ru</key>
-      <value>Клиент</value>
+      <value>Это клиент</value>
     </synonym>
     <type>
       <types>Boolean</types>
@@ -46,10 +46,10 @@
     <fullTextSearch>Use</fullTextSearch>
   </attributes>
   <attributes uuid="0a53deae-9ac6-4521-98dd-809c00ec8ac9">
-    <name>Поставщик</name>
+    <name>ЭтоПоставщик</name>
     <synonym>
       <key>ru</key>
-      <value>Поставщик</value>
+      <value>Это поставщик</value>
     </synonym>
     <type>
       <types>Boolean</types>
@@ -60,10 +60,10 @@
     <fullTextSearch>Use</fullTextSearch>
   </attributes>
   <attributes uuid="6059e76e-0df5-42ee-99e2-989190cb2bbc">
-    <name>ПрочиеОтношения</name>
+    <name>ЭтоПрочиеОтношения</name>
     <synonym>
       <key>ru</key>
-      <value>Прочие отношения</value>
+      <value>Это прочие отношения</value>
     </synonym>
     <type>
       <types>Boolean</types>

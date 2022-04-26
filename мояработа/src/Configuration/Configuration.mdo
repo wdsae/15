@@ -32,13 +32,14 @@
   <subsystems>Subsystem.Продажи</subsystems>
   <subsystems>Subsystem.Закупки</subsystems>
   <subsystems>Subsystem.БухгалтерскийУчет</subsystems>
-  <constants>Constant.Организация</constants>
-  <constants>Constant.Склад</constants>
+  <constants>Constant.НаименованиеОрганизации</constants>
+  <constants>Constant.НаименованиеСклада</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
   <documents>Document.РеализацияТоваров</documents>
+  <documents>Document.БухгалтерскаяОперация</documents>
   <documentJournals>DocumentJournal.ТоварныеДокументы</documentJournals>
   <reports>Report.ЗакупкиТоваров</reports>
   <reports>Report.ОстаткиТоваровПоДаннымДокументам</reports>

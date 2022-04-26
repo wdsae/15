@@ -7,8 +7,8 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>Constant.Организация</content>
-  <content>Constant.Склад</content>
+  <content>Constant.НаименованиеОрганизации</content>
+  <content>Constant.НаименованиеСклада</content>
   <content>Catalog.Номенклатура</content>
   <content>Catalog.Контрагенты</content>
   <content>Catalog.Сотрудники</content>
